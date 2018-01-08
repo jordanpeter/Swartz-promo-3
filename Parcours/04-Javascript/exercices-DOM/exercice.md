@@ -2,7 +2,7 @@
 
 - Télécharger le fichier "[files.zip](./files.zip)"
 
-# #EXERCICE 1 : Manipulation de classes
+## EXERCICE 1 : Manipulation de classes
 
 - sélectionner le body 
 - lui retirer la classe "bg-aqua"
@@ -66,7 +66,7 @@
 - ensuite ajouter chaque 'li' à l'élément 'ol' précédement sélectionné
 
 
-### Reminder
+### Rappel
 
 Selecteurs
 - document.getElementById()
