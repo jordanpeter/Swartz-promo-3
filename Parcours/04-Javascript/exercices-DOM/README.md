@@ -49,3 +49,6 @@ var bouton = document.querySelectorAll('.btn');
 ```
 `querySelector`, comme `getElementById`, retourne un seul élément alors `querySelectorAll` renvoie une `NodeList`. 
 Si plusieurs éléments correspondent au même sélecteur et que vous utilisez `querySelector`, seul le premier élément sera retourné.
+
+### Play time!
+C'est parti pour les [exercices](./exercice.md) !
