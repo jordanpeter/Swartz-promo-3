@@ -1,6 +1,6 @@
 ## DOM
 
-- Télécharger les fichier "[file.zip](./file.zip)"
+- Télécharger les fichier "[files.zip](./files.zip)"
 
 # #EXERCICE 1 : Manipulation de classes
 
