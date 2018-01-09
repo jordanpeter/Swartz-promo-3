@@ -6,7 +6,7 @@
 
 ## Créer un MasterMind
 
-[Rèles du jeux ici] (https://fr.wikipedia.org/wiki/Mastermind)
+[Règles du jeux ici](https://fr.wikipedia.org/wiki/Mastermind)
 Précision : pour le mode normal, la solution  = 4 couleurs différentes
 
 ### Le jeu
