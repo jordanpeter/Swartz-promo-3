@@ -2,7 +2,7 @@
 
 ## Objectif
 
-- déelopper un mastermind en HTML - CSS - JS
+- développer un mastermind en HTML - CSS - JS
 
 ## Créer un MasterMind
 
