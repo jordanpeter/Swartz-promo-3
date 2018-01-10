@@ -6,8 +6,10 @@
 - Entrainement : [Exercices de javascript](exercices) et un peu de [lecture](lecture) pour ceux qui ont besoin
 - Cours : [02 - Le DOM](https://docs.google.com/presentation/d/1zcucIJ-y8xyT5rjCE5hpPjBWq-RjIBusuXvIygfnqPQ/edit?usp=sharing)
 - Entrainement : [Exercices sur le DOM](exercices-DOM)
+- Cours : [03 - Canvas](https://docs.google.com/presentation/d/1YbA9I-SbCs5Vpz4xAPf5QvJGpfSt88GYmSKSeFIjE6U/edit?usp=sharing)
+- Entrainement : [Faire un petit jeu avec Canvas](canvas.md)
 
-À venir : Canvas et AJAX
+À venir : AJAX
 
 
 ### Avec vos nouvelles connaissances :
