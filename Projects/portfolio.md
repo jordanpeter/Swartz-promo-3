@@ -1,10 +1,13 @@
 # Portfolio
 
+- Nom du repo : `portfolio`
+- doit être épinglé (pinned) sur votre profil
+
 ## Objectifs pédagogiques
 
 - Réaliser un website en onepage à partir d'un thème bootstrap (ou autre) à adapter en maximum deux jours.
 - Faire en sorte que ça soit responsive.
-- Visualiser en un clin d'oeil les différents projets à venir, en cours et achevés
+- Visualiser en un clin d'oeil les différents projets à venir, en cours et achevés, les projets réalisés pour BeCode et vos projets personnels.
 
 ## Objectifs du projet
 
