@@ -100,8 +100,7 @@ Lorsqu’on clique sur le bouton “plus des films”, afficher les autres films
 Utiliser les deux petits boutons à droite pour faire défiler les films de gauche à droite et vise-versa (Jquery, bootstrap, JS au choix)
 
 ### Section Contact Us
-Créer un formulaire et afficher dans un 
-les entrées du formulaire lorsqu’on clique sur “Send Message”. (Pas de traitement en php, prochainement promis)
+Créer un formulaire (dans la page HTML, pas dans un pop-up). Faites en sorte que les entrées du formulaire s'affichent dans un pop-up lorsqu’on clique sur “Send Message”. (Pas de traitement en php, prochainement promis)
 
 Bonus : mettre une map dans la section Contact us.
 
