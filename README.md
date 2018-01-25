@@ -11,7 +11,7 @@ Clone-le sur ton ordi et `git pull` régulièrement afin de rapatrier les mises 
 
 ## Retards et absences
 - Si tu dois fixer un rendez-vous quelconque, fixe-le le **mardi matin** (sois de retour pour 13h25).
-- Si vraiment tu ne peux faire autrement, préviens nous de ton absence ou retard **au moins un jour à l'avance** en envoyant un email à admin@becode.org, emily@becode.org et alexandre@becode.org. Nous l'ajouterons à l'agenda, de sorte que tout le monde sache qu'il ne peut compter sur toi à ce moment-là.
+- Si vraiment tu ne peux faire autrement, préviens nous de ton absence ou retard **au moins un jour à l'avance** en envoyant un email à admin[at]becode[point]org, emily[at]becode[point]org et eric[at]becode[point]org. Nous l'ajouterons à l'agenda, de sorte que tout le monde sache qu'il ne peut compter sur toi à ce moment-là.
 
 ## Congés
 
