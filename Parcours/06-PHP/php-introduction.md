@@ -21,7 +21,7 @@ PHP permet au Serveur Web de "réfléchir avant de parler" et en informatique, "
 Parce que cela vous permet de créer des pages de manière **dynamique** plutôt que **statique**.
 
 Imagine que tu doives créer une page web permettant de dire "Bonjour !" à chacun des quelques 7 milliards d'habitants vivant sur Terre.
-Cela signifie que tu dois créer 7 milliards de pages HTML telles que celle-ci, accessibles à une adresse url du style : http://citizens.net/humans/jose-garcia.html
+Cela signifie que tu dois créer 7 milliards de pages HTML telles que celle-ci, accessibles à une adresse url du style : http://citizens.net/humans/jose-garcia.html (c'est un exemple d'URL, il ne fonctionne pas vraiment).
 
 ```HTML
 <html>
