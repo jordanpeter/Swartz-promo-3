@@ -21,9 +21,9 @@
 - [Calculatrice](calculatrice.md)
 - [Pagination](creer_pagination.md)
 - [Manipulation de fichiers](Manipulation_fichier_php.md)
-- [Créer un contrôleur](controleur-zoo/md)
-- [PHP Send Mail Form](php-send-mail-form) :gb: :fr:
-- [Cooking data with PHP!](php-cooking-data) :gb: :fr:
+- [Créer un contrôleur](controleur-zoo.md)
+- [PHP Send Mail Form](send-mail-form) :gb: :fr:
+- [Cooking data with PHP!](cooking-data) :gb: :fr:
 
 
 ## Projets
