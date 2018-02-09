@@ -7,4 +7,3 @@
 - [Les formulaires](php-ex-forms.md)
 - [Les variables globales, $SESSION](php-ex-variablesglobales.md)
 - [Les dates](php-ex-date.md)
-- [Manipulation de fichiers](Manipulation_fichier_php.md)

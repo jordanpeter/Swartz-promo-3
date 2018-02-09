@@ -20,6 +20,8 @@
 
 - [Calculatrice](calculatrice.md)
 - [Pagination](creer_pagination.md)
+- [Manipulation de fichiers](Manipulation_fichier_php.md)
+- [Créer un contrôleur](controleur-zoo/md)
 
 ## Projets
 à venir
