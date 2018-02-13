@@ -6,6 +6,7 @@ Par groupe de 2.
 - nom du repository : `todolist`
 - publie ton app sur Heroku pour qu'on puisse la tester
 - envoie l'URL de ton repository + heroku via ryver
+- n'oublie pas de faire un readme de qualité où tu indiques avec qui tu as travaillé, qui a fait quoi, et d'autres informations que tu juges importantes de communiquer.
 
 ## Deadline
 4 jours.
