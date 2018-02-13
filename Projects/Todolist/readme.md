@@ -1,5 +1,15 @@
 # To-do list, en php
 
+Par groupe de 2.
+
+## Remise
+- nom du repository : `todolist`
+- publie ton app sur Heroku pour qu'on puisse la tester
+- envoie l'URL de ton repository + heroku via ryver
+
+## Deadline
+4 jours.
+
 Crée un outil de gestion de tâches basique et fiable. Il contient deux écrans :  
 
 - écran 1 : un petit formulaire permettant d'ajouter une tâche (un champ "textarea" et le bouton "submit").
@@ -27,14 +37,6 @@ Crée un outil de gestion de tâches basique et fiable. Il contient deux écrans
 - boucles
 - conditions
 - Ce qu'est une fonction et comment l'utiliser
-
-## Remise
-- nom du repository : `projet-6-todolist`
-- publie ton app sur Heroku pour qu'on puisse la tester
-- envoie l'URL de ton repository + heroku via ryver
-
-## Deadline
-4 jours.
 
 ## Planning
 Voici un planning réaliste auquel tu dois arriver à la fin de chaque jour.
