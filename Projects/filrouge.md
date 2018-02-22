@@ -19,7 +19,7 @@ Chaque projet est inspiré de situations et besoins réels, mais ne fera pas l'o
 
 
 <table>
-<tr><td>Alixe</td><td>Passe-muraille</td><td>https://www.facebook.com/La.MILF.elle.est.bonne/</td></tr>
+<tr><td>Alixe</td><td>La MILF (bière)</td><td>https://www.facebook.com/La.MILF.elle.est.bonne/</td></tr>
  <tr><td>Andrea</td><td>Centre Anderlechtois de Formation</td><td>https://www.guidesocial.be/caf/</td></tr>
  <tr><td>Christophe</td><td>La Ressourcerie du pays de Liège</td><td>http://www.ressourcerieliege.be/accueil</td></tr>
  <tr><td>Corentin N</td><td>Superlab</td><td>https://drive.google.com/open?id=10V4bsfTH1YaO5fxvkvrSgEqO6_Yt1k_q</td></tr>
