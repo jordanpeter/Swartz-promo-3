@@ -5,13 +5,14 @@ Clone-le sur ton ordi et `git pull` régulièrement afin de rapatrier les mises 
 
 ## Tes sources d'information pour respecter les règles de BeCode
 
-1. Lis le [contrat pédagogique](./contratpedagogique.md). Consulte également le [livret des apprenants](https://docs.google.com/document/d/1ic7FbY_2QNg2X1n3jS0KEFEa7SbnsjKakEYkYc--XcE/edit?usp=sharing).
+1. Lis le [contrat pédagogique](../../../BeCode/blob/master/contratpedagogique.md). Consulte également le [livret des apprenants](https://docs.google.com/document/d/1ic7FbY_2QNg2X1n3jS0KEFEa7SbnsjKakEYkYc--XcE/edit?usp=sharing).
 1. L'agenda de ta startup : au format [html](https://calendar.google.com/calendar/embed?src=becode.org_othf91a8asbmvclq36df0jc3m8%40group.calendar.google.com&ctz=Europe/Brussels) et au format  [iCal](https://calendar.google.com/calendar/ical/becode.org_othf91a8asbmvclq36df0jc3m8%40group.calendar.google.com/public/basic.ics)
 1. Le [Wiki de BeCode](https://github.com/becodeorg/BeCode/wiki)
 
 ## Retards et absences
 - Si tu dois fixer un rendez-vous quelconque, fixe-le le **mardi matin** (sois de retour pour 13h25).
-- Si vraiment tu ne peux faire autrement, préviens nous de ton absence ou retard **au moins un jour à l'avance** en envoyant un email à admin@becode.org, emily@becode.org et alexandre@becode.org. Nous l'ajouterons à l'agenda, de sorte que tout le monde sache qu'il ne peut compter sur toi à ce moment-là.
+- Si vraiment tu ne peux faire autrement, préviens nous de ton absence ou retard **au moins un jour à l'avance** en envoyant un email à admin[at]becode[point]org, emily[at]becode[point]org et eric[at]becode[point]org. Nous l'ajouterons à l'agenda, de sorte que tout le monde sache qu'il ne peut compter sur toi à ce moment-là.
+- En cas de maladie ou événement imprévisible => envoyer un e-mail pour informer de l'absence aux mêmes adresses. Si un justificatif peut être fourni, le fournir quand vous l'avez. (On prévient PUIS on envoie le justificatif. On n'attend pas d'avoir le justificatif pour envoyer l'information !)
 
 ## Congés
 
